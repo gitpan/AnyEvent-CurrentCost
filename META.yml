@@ -22,7 +22,7 @@ requires:
   AnyEvent: 0
   AnyEvent::Handle: 0
   Carp: 0
-  Device::CurrentCost: 0
+  Device::CurrentCost: 1.112970
   Device::CurrentCost::Constants: 0
   Getopt::Long: 0
   List::Util: 0
@@ -30,6 +30,6 @@ requires:
   Sub::Name: 0
   constant: 0
 resources:
-  bugtracker: http://github.com/beanz/anyevent-current-cost-perl/issues
+  bugtracker: https://github.com/beanz/anyevent-current-cost-perl/issues
   repository: git://github.com/beanz/anyevent-current-cost-perl.git
-version: 1.110792
+version: 1.112970

@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package AnyEvent::CurrentCost;
 BEGIN {
-  $AnyEvent::CurrentCost::VERSION = '1.110792';
+  $AnyEvent::CurrentCost::VERSION = '1.112970';
 }
 
 # ABSTRACT: AnyEvent module for reading from Current Cost energy meters
@@ -104,7 +104,7 @@ AnyEvent::CurrentCost - AnyEvent module for reading from Current Cost energy met
 
 =head1 VERSION
 
-version 1.110792
+version 1.112970
 
 =head1 SYNOPSIS
 
